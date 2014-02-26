@@ -1,0 +1,26 @@
+{
+    "family":      "alistyle",
+    "name":        "one",
+    "version":     "1.0.1",
+    "description": "alibaba css theme - one",
+    "homepage":    "https://github.com/alistyle/alistyle/one",
+    "author":      "ermin.zem",
+    "repository":  {
+        "type": "git",
+        "url":  "https://github.com/alistyle/one.git"
+    },
+    "bugs": {
+        "url": ""
+    },
+    "keywords": ["widget"],
+    "licenses": "MIT",
+    "spm": {
+        "output":   ["one.css"],
+        "alias":    {},
+        "devAlias": {},
+        "engines":  {}
+    },
+    "devDependencies": {
+        "grunt-contrib-cssmin": "~0.7.0"
+    }
+}
